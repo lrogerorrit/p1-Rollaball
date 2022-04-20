@@ -1,2 +1,2 @@
 # p1-Rollaball
-You can find the build in the Builds folder
+Please use the zip called Build.zip. Since github breaks the build folder.
