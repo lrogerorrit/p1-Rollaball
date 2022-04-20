@@ -611,14 +611,14 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template_Lightweight
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 00b9ae49e673d901
   metroApplicationDescription: Template_Lightweight
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: p1-roll-a-ball
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
